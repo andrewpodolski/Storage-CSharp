@@ -66,3 +66,25 @@ C:\Users\Андрей\Desktop\Новая папка\CSharpStorage\Storage\obj\De
 C:\Users\Андрей\Desktop\Новая папка\CSharpStorage\Storage\obj\Debug\Storage.csproj.GenerateResource.cache
 C:\Users\Андрей\Desktop\Новая папка\CSharpStorage\Storage\obj\Debug\Storage.exe
 C:\Users\Андрей\Desktop\Новая папка\CSharpStorage\Storage\obj\Debug\Storage.pdb
+C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.csprojAssemblyReference.cache
+C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.Forms.Accountant.CostsInfoForm.resources
+C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.Forms.Accountant.PaymentInfoForm.resources
+C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.Forms.Accountant.ProviderPaymentForm.resources
+C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.Forms.ClientMan.NewOrderForm.resources
+C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.Forms.ClientMan.OrderInfoForm.resources
+C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.Forms.ClientMan.OrderPaymentForm.resources
+C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.Forms.Courier.DeliverForm.resources
+C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.Forms.LogsForm.resources
+C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.Forms.PurcaseMan.CheckOrderStateForm.resources
+C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.MainMenuForm.resources
+C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.Forms.PurcaseMan.NewProductForm.resources
+C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.Forms.PurcaseMan.ProductInfoForm.resources
+C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.Forms.Shopkeeper.NewLotForm.resources
+C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.Forms.Shopkeeper.NewProductForm.resources
+C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.exe
+C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.pdb
+C:\Users\Андрей\Desktop\Storage\Storage\bin\Debug\Storage.exe.config
+C:\Users\Андрей\Desktop\Storage\Storage\bin\Debug\Storage.exe
+C:\Users\Андрей\Desktop\Storage\Storage\bin\Debug\Storage.pdb
