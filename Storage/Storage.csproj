@@ -118,16 +118,16 @@
     <Compile Include="Forms\PurcaseMan\ProductInfoForm.Designer.cs">
       <DependentUpon>ProductInfoForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\StoreKepper\NewLotForm.cs">
+    <Compile Include="Forms\Shopkeeper\NewLotForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\StoreKepper\NewLotForm.Designer.cs">
+    <Compile Include="Forms\Shopkeeper\NewLotForm.Designer.cs">
       <DependentUpon>NewLotForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\StoreKepper\NewProductForm.cs">
+    <Compile Include="Forms\Shopkeeper\NewProductForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\StoreKepper\NewProductForm.Designer.cs">
+    <Compile Include="Forms\Shopkeeper\NewProductForm.Designer.cs">
       <DependentUpon>NewProductForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
@@ -153,7 +153,7 @@
     <Compile Include="Source\Entity\Users\ClientManager.cs" />
     <Compile Include="Source\Entity\Users\Courier.cs" />
     <Compile Include="Source\Entity\Users\PurchaseManager.cs" />
-    <Compile Include="Source\Entity\Users\StoreKepper.cs" />
+    <Compile Include="Source\Entity\Users\Shopkeeper.cs" />
     <Compile Include="Source\Entity\Users\User.cs" />
     <Compile Include="Source\Interfaces\IGoods.cs" />
     <Compile Include="Source\Interfaces\IRequest.cs" />
@@ -182,8 +182,8 @@
     <Compile Include="Source\Presenter\PurcaseMan\CheckOrderStatus.cs" />
     <Compile Include="Source\Presenter\PurcaseMan\GoodsInfo.cs" />
     <Compile Include="Source\Presenter\PurcaseMan\NewProductPres.cs" />
-    <Compile Include="Source\Presenter\StoreKepper\NewProduct.cs" />
-    <Compile Include="Source\Presenter\StoreKepper\ProductShipment.cs" />
+    <Compile Include="Source\Presenter\Shopkeeper\NewProduct.cs" />
+    <Compile Include="Source\Presenter\Shopkeeper\ProductShipment.cs" />
     <Compile Include="Source\Presenter\StatusBar.cs" />
     <Compile Include="Source\UserView\Accountant\CostsInfo.cs" />
     <Compile Include="Source\UserView\Accountant\PaymentInfo.cs" />
@@ -195,8 +195,8 @@
     <Compile Include="Source\UserView\PurcaseMan\CheckOrderStatus.cs" />
     <Compile Include="Source\UserView\PurcaseMan\GoodsInfo.cs" />
     <Compile Include="Source\UserView\PurcaseMan\NewProductView.cs" />
-    <Compile Include="Source\UserView\StoreKepper\NewProduct.cs" />
-    <Compile Include="Source\UserView\StoreKepper\ProductShipment.cs" />
+    <Compile Include="Source\UserView\Shopkeeper\NewProduct.cs" />
+    <Compile Include="Source\UserView\Shopkeeper\ProductShipment.cs" />
     <Compile Include="Source\UserView\StartInit.cs" />
     <Compile Include="Source\UserView\StatusBar.cs" />
     <Compile Include="Source\UserView\UserView.cs" />
@@ -236,10 +236,10 @@
     <EmbeddedResource Include="Forms\PurcaseMan\ProductInfoForm.resx">
       <DependentUpon>ProductInfoForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Forms\StoreKepper\NewLotForm.resx">
+    <EmbeddedResource Include="Forms\Shopkeeper\NewLotForm.resx">
       <DependentUpon>NewLotForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Forms\StoreKepper\NewProductForm.resx">
+    <EmbeddedResource Include="Forms\Shopkeeper\NewProductForm.resx">
       <DependentUpon>NewProductForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">

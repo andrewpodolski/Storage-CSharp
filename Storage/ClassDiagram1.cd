@@ -63,7 +63,7 @@
       <FileName>Forms\MainMenuForm.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Storage.Program">
+  <Class Name="Storage.Program" Collapsed="true">
     <Position X="23.25" Y="3.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
@@ -95,14 +95,14 @@
     <Position X="28.5" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAABgAACAAAAAAAACAAIACAgAAAAAAAAAQQgAAAAA=</HashCode>
-      <FileName>Forms\StoreKepper\NewLotForm.cs</FileName>
+      <FileName>Forms\Shopkeeper\NewLotForm.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Storage.Forms.Shopkeeper.NewProductForm" Collapsed="true">
     <Position X="23.25" Y="2.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAACAAAIAACACEAIACAgAAAAAAAAAAIgAAAAA=</HashCode>
-      <FileName>Forms\StoreKepper\NewProductForm.cs</FileName>
+      <FileName>Forms\Shopkeeper\NewProductForm.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Storage.Properties.Resources" Collapsed="true">
@@ -260,7 +260,7 @@
     <Lollipop Position="0.2" Collapsed="true" />
   </Class>
   <Class Name="Storage.Source.Entity.Request.Request" Collapsed="true" BaseTypeListCollapsed="true">
-    <Position X="29.25" Y="5" Width="1.5" />
+    <Position X="26.75" Y="3.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAACACAAAAACAgAMAAAAAAgAAAABAIABCAEAAIAAAAA=</HashCode>
       <FileName>Source\Entity\Request.cs</FileName>
@@ -295,11 +295,11 @@
       <FileName>Source\Entity\Users\PurchaseManager.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Storage.Source.Entity.Users.StoreKepper" Collapsed="true">
+  <Class Name="Storage.Source.Entity.Users.Shopkeeper" Collapsed="true">
     <Position X="9.5" Y="5.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Source\Entity\Users\StoreKepper.cs</FileName>
+      <FileName>Source\Entity\Users\Shopkeeper.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Storage.Source.Entity.Users.User" Collapsed="true">

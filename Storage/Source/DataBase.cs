@@ -40,24 +40,22 @@ namespace Storage.Source
 
         private void Init()
         {
-            AddGoods(new Bakery("Хлеб", "1.", UnitType.Unit, false, 0.15f, 1, 100.0f, FromType.Belarus, GoodsType.Food));
-            AddGoods(new Dairy("Молоко", "2.", UnitType.Liter, false, 0.15f, 1, 125.5f, FromType.Belarus, GoodsType.Food));
-            AddGoods(new Meat("Сало", "3.", UnitType.Unit, true, 1.15f, 12, 1.99f, FromType.Belarus, GoodsType.Industrial));
-            AddGoods(new Appliances("СВЧ-печь", "4.", UnitType.Liter, false, 25f, 35, 30.99f, FromType.Germany, GoodsType.Industrial));
-            AddGoods(new Clothes("Куртка", "5.", UnitType.Unit, true, 43.5f, -1, 16.99f, FromType.Italy, GoodsType.Industrial));
-            AddGoods(new Equipment("Гантеля", "6.", UnitType.Killogram, false, 1.15f, 12, 12.25f, FromType.Russia, GoodsType.Industrial));
-            AddGoods(new Shoes("Кроссовки", "7.", UnitType.Unit, true, 2.15f, -1, 50.99f, FromType.Spain, GoodsType.Industrial));
-            AddGoods(new Furniture("Диван", "8.", UnitType.Killogram, true, 40.1f, 12, 150f, FromType.USA, GoodsType.Industrial));
-            AddGoods(new Stationery("Ручки", "9.", UnitType.Unit, true, 1.1f, 9999, 0.99f, FromType.Denmark, GoodsType.Industrial));
-            AddGoods(new Stationery("Блокноты","10.", UnitType.Unit, true, 1.1f, 0, 1.0f, FromType.England, GoodsType.Industrial));
+            AddGoods(new Bakery("Булочка1", "1.", UnitType.Unit, false, 0.15f, 1, 1.23f, FromType.Belarus, GoodsType.Industrial));
+            AddGoods(new Dairy("Булочка2", "2.", UnitType.Killogram, false, 0.15f, 1, 12.23f, FromType.Belarus, GoodsType.Food));
+            AddGoods(new Meat("Булочка3", "3.", UnitType.Unit, true, 1.15f, 12, 23.23f, FromType.Belarus, GoodsType.Industrial));
+            AddGoods(new Appliances("Булочка4", "4.", UnitType.Liter, false, 25f, 35, 53.23f, FromType.Germany, GoodsType.Food));
+            AddGoods(new Clothes("Булочка5", "5.", UnitType.Unit, true, 43.5f, -1, 1.23f, FromType.Italy, GoodsType.Industrial));
+            AddGoods(new Equipment("Булочка6", "6.", UnitType.Killogram, false, 1.15f, 12, 2.23f, FromType.Russia, GoodsType.Industrial));
+            AddGoods(new Shoes("Булочка7", "7.", UnitType.Unit, true, 2.15f, -1, 5.23f, FromType.Spain, GoodsType.Industrial));
+            AddGoods(new Furniture("Булочка8", "8.", UnitType.Killogram, true, 2.15f, 12, 152.23f, FromType.USA, GoodsType.Food));
 
-            AddUsers(new PurchaseManager("Иванов Иван"));
-            AddUsers(new StoreKepper("Петров Петр"));
-            AddUsers(new Accountant("Сидоров Сидор"));
-            AddUsers(new ClientManager("Мумов Валентин"));
-            AddUsers(new ClientManager("Энгельс Фридрих"));
-            AddUsers(new Courier("Ластенко Алексей"));
-            AddUsers(new PurchaseManager("Тодов Виталий"));
+            AddUsers(new PurchaseManager("Иванов Иван Иванович"));
+            AddUsers(new Shopkeeper("Петров П П"));
+            AddUsers(new Accountant("Жигалова Ж Ж"));
+            AddUsers(new ClientManager("Иванов2 Иван2 Иванович2"));
+            AddUsers(new ClientManager("Жигалов Иван2 Иванович2"));
+            AddUsers(new Courier("Петров2 П2 П2"));
+            AddUsers(new PurchaseManager("Жигалова2 Ж2 Ж2"));
 
             AddStorage(new Entity.Storage(1));
             AddStorage(new Entity.Storage(2));

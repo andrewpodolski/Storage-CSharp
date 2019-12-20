@@ -61,7 +61,7 @@ namespace Storage.Source
             foreach (var l in lots)
             {
                 var req = pres.GetOrderReqById(l.ReqId);
-                if (req.IsDelivered || !req.InStorage || !req.IsReady)
+                if (req.IsDelivered || !req.IsReady)
                 {
                     continue;
                 }

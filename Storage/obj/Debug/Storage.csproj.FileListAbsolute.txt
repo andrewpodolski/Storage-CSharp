@@ -21,25 +21,48 @@ D:\Programming\WorkSpace\C#\Storage\Storage\obj\Debug\Storage.Forms.PurcaseMan.C
 D:\Programming\WorkSpace\C#\Storage\Storage\obj\Debug\Storage.Forms.PurcaseMan.NewProductForm.resources
 D:\Programming\WorkSpace\C#\Storage\Storage\obj\Debug\Storage.Forms.ClientMan.OrderPaymentForm.resources
 D:\Programming\WorkSpace\C#\Storage\Storage\obj\Debug\Storage.Forms.LogsForm.resources
-C:\Users\Андрей\Desktop\Storage\Storage\bin\Debug\Storage.exe.config
-C:\Users\Андрей\Desktop\Storage\Storage\bin\Debug\Storage.exe
-C:\Users\Андрей\Desktop\Storage\Storage\bin\Debug\Storage.pdb
-C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.csprojAssemblyReference.cache
-C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.Forms.Accountant.CostsInfoForm.resources
-C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.Forms.Accountant.PaymentInfoForm.resources
-C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.Forms.Accountant.ProviderPaymentForm.resources
-C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.Forms.ClientMan.NewOrderForm.resources
-C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.Forms.ClientMan.OrderInfoForm.resources
-C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.Forms.ClientMan.OrderPaymentForm.resources
-C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.Forms.Courier.DeliverForm.resources
-C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.Forms.LogsForm.resources
-C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.Forms.PurcaseMan.CheckOrderStateForm.resources
-C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.MainMenuForm.resources
-C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.Forms.PurcaseMan.NewProductForm.resources
-C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.Forms.PurcaseMan.ProductInfoForm.resources
-C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.Forms.Shopkeeper.NewLotForm.resources
-C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.Forms.Shopkeeper.NewProductForm.resources
-C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.Properties.Resources.resources
-C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.csproj.GenerateResource.cache
-C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.exe
-C:\Users\Андрей\Desktop\Storage\Storage\obj\Debug\Storage.pdb
+D:\Programming\WorkSpace\C#\Storage\CSharpStorage\Storage\bin\Debug\Storage.exe.config
+D:\Programming\WorkSpace\C#\Storage\CSharpStorage\Storage\bin\Debug\Storage.exe
+D:\Programming\WorkSpace\C#\Storage\CSharpStorage\Storage\bin\Debug\Storage.pdb
+D:\Programming\WorkSpace\C#\Storage\CSharpStorage\Storage\obj\Debug\Storage.csprojAssemblyReference.cache
+D:\Programming\WorkSpace\C#\Storage\CSharpStorage\Storage\obj\Debug\Storage.Forms.Accountant.CostsInfoForm.resources
+D:\Programming\WorkSpace\C#\Storage\CSharpStorage\Storage\obj\Debug\Storage.Forms.Accountant.PaymentInfoForm.resources
+D:\Programming\WorkSpace\C#\Storage\CSharpStorage\Storage\obj\Debug\Storage.Forms.Accountant.ProviderPaymentForm.resources
+D:\Programming\WorkSpace\C#\Storage\CSharpStorage\Storage\obj\Debug\Storage.Forms.ClientMan.NewOrderForm.resources
+D:\Programming\WorkSpace\C#\Storage\CSharpStorage\Storage\obj\Debug\Storage.Forms.ClientMan.OrderInfoForm.resources
+D:\Programming\WorkSpace\C#\Storage\CSharpStorage\Storage\obj\Debug\Storage.Forms.ClientMan.OrderPaymentForm.resources
+D:\Programming\WorkSpace\C#\Storage\CSharpStorage\Storage\obj\Debug\Storage.Forms.Courier.DeliverForm.resources
+D:\Programming\WorkSpace\C#\Storage\CSharpStorage\Storage\obj\Debug\Storage.Forms.LogsForm.resources
+D:\Programming\WorkSpace\C#\Storage\CSharpStorage\Storage\obj\Debug\Storage.Forms.PurcaseMan.CheckOrderStateForm.resources
+D:\Programming\WorkSpace\C#\Storage\CSharpStorage\Storage\obj\Debug\Storage.MainMenuForm.resources
+D:\Programming\WorkSpace\C#\Storage\CSharpStorage\Storage\obj\Debug\Storage.Forms.PurcaseMan.NewProductForm.resources
+D:\Programming\WorkSpace\C#\Storage\CSharpStorage\Storage\obj\Debug\Storage.Forms.PurcaseMan.ProductInfoForm.resources
+D:\Programming\WorkSpace\C#\Storage\CSharpStorage\Storage\obj\Debug\Storage.Forms.Shopkeeper.NewLotForm.resources
+D:\Programming\WorkSpace\C#\Storage\CSharpStorage\Storage\obj\Debug\Storage.Forms.Shopkeeper.NewProductForm.resources
+D:\Programming\WorkSpace\C#\Storage\CSharpStorage\Storage\obj\Debug\Storage.Properties.Resources.resources
+D:\Programming\WorkSpace\C#\Storage\CSharpStorage\Storage\obj\Debug\Storage.csproj.GenerateResource.cache
+D:\Programming\WorkSpace\C#\Storage\CSharpStorage\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+D:\Programming\WorkSpace\C#\Storage\CSharpStorage\Storage\obj\Debug\Storage.exe
+D:\Programming\WorkSpace\C#\Storage\CSharpStorage\Storage\obj\Debug\Storage.pdb
+C:\Users\Андрей\Desktop\Новая папка\CSharpStorage\Storage\bin\Debug\Storage.exe.config
+C:\Users\Андрей\Desktop\Новая папка\CSharpStorage\Storage\bin\Debug\Storage.exe
+C:\Users\Андрей\Desktop\Новая папка\CSharpStorage\Storage\bin\Debug\Storage.pdb
+C:\Users\Андрей\Desktop\Новая папка\CSharpStorage\Storage\obj\Debug\Storage.csprojAssemblyReference.cache
+C:\Users\Андрей\Desktop\Новая папка\CSharpStorage\Storage\obj\Debug\Storage.Forms.Accountant.CostsInfoForm.resources
+C:\Users\Андрей\Desktop\Новая папка\CSharpStorage\Storage\obj\Debug\Storage.Forms.Accountant.PaymentInfoForm.resources
+C:\Users\Андрей\Desktop\Новая папка\CSharpStorage\Storage\obj\Debug\Storage.Forms.Accountant.ProviderPaymentForm.resources
+C:\Users\Андрей\Desktop\Новая папка\CSharpStorage\Storage\obj\Debug\Storage.Forms.ClientMan.NewOrderForm.resources
+C:\Users\Андрей\Desktop\Новая папка\CSharpStorage\Storage\obj\Debug\Storage.Forms.ClientMan.OrderInfoForm.resources
+C:\Users\Андрей\Desktop\Новая папка\CSharpStorage\Storage\obj\Debug\Storage.Forms.ClientMan.OrderPaymentForm.resources
+C:\Users\Андрей\Desktop\Новая папка\CSharpStorage\Storage\obj\Debug\Storage.Forms.Courier.DeliverForm.resources
+C:\Users\Андрей\Desktop\Новая папка\CSharpStorage\Storage\obj\Debug\Storage.Forms.LogsForm.resources
+C:\Users\Андрей\Desktop\Новая папка\CSharpStorage\Storage\obj\Debug\Storage.Forms.PurcaseMan.CheckOrderStateForm.resources
+C:\Users\Андрей\Desktop\Новая папка\CSharpStorage\Storage\obj\Debug\Storage.MainMenuForm.resources
+C:\Users\Андрей\Desktop\Новая папка\CSharpStorage\Storage\obj\Debug\Storage.Forms.PurcaseMan.NewProductForm.resources
+C:\Users\Андрей\Desktop\Новая папка\CSharpStorage\Storage\obj\Debug\Storage.Forms.PurcaseMan.ProductInfoForm.resources
+C:\Users\Андрей\Desktop\Новая папка\CSharpStorage\Storage\obj\Debug\Storage.Forms.Shopkeeper.NewLotForm.resources
+C:\Users\Андрей\Desktop\Новая папка\CSharpStorage\Storage\obj\Debug\Storage.Forms.Shopkeeper.NewProductForm.resources
+C:\Users\Андрей\Desktop\Новая папка\CSharpStorage\Storage\obj\Debug\Storage.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Новая папка\CSharpStorage\Storage\obj\Debug\Storage.csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\Новая папка\CSharpStorage\Storage\obj\Debug\Storage.exe
+C:\Users\Андрей\Desktop\Новая папка\CSharpStorage\Storage\obj\Debug\Storage.pdb

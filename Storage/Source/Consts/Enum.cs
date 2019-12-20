@@ -5,7 +5,7 @@
     Unit                // штука
 }
 
-public enum FromType        
+public enum FromType        // страна производитель
 {
     England,
     USA,   

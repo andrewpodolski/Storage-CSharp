@@ -21,7 +21,7 @@ namespace Storage.Source.Entity
         {
             var result = "";
 
-            result += "Id запроса: " + ReqId + "\n";
+            result += "Id запроса: " + ReqId + " \n";
             result += "Товары:\n";
 
             foreach(var g in Goods)

@@ -26,7 +26,7 @@ namespace Storage.Source
                     continue;
                 }
 
-                if (u is StoreKepper)
+                if (u is Shopkeeper)
                 {
                     form.skListCB.Items.Add(u.ToString());
                     form.skListCB.SelectedIndex = 0;
