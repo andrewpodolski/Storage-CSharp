@@ -10,10 +10,6 @@
         bool Packaging { get; }
 
         float Weight { get; }
-
-        /// <summary>
-        /// Срок годности. < 0 - без срока годности
-        /// </summary>
         int LifeTime { get; }
 
         float Price { get; }

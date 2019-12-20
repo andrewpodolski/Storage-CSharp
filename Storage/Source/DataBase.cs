@@ -49,13 +49,14 @@ namespace Storage.Source
             AddGoods(new Shoes("Кроссовки", "7.", UnitType.Unit, true, 2.15f, -1, 50.99f, FromType.Spain, GoodsType.Industrial));
             AddGoods(new Furniture("Диван", "8.", UnitType.Killogram, true, 40.1f, 12, 150f, FromType.USA, GoodsType.Industrial));
             AddGoods(new Stationery("Ручки", "9.", UnitType.Unit, true, 1.1f, 9999, 0.99f, FromType.Denmark, GoodsType.Industrial));
+            AddGoods(new Stationery("Блокноты","10.", UnitType.Unit, true, 1.1f, 0, 1.0f, FromType.England, GoodsType.Industrial));
 
             AddUsers(new PurchaseManager("Иванов Иван"));
             AddUsers(new StoreKepper("Петров Петр"));
             AddUsers(new Accountant("Сидоров Сидор"));
             AddUsers(new ClientManager("Мумов Валентин"));
             AddUsers(new ClientManager("Энгельс Фридрих"));
-            AddUsers(new Courier("Ластенко Алексей "));
+            AddUsers(new Courier("Ластенко Алексей"));
             AddUsers(new PurchaseManager("Тодов Виталий"));
 
             AddStorage(new Entity.Storage(1));
